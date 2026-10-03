@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: "Jost", sans-serif;
+    background-color: #f2f4ff;
+    color: #3a4374;
+  }
+}
+
+:root {
+  --color-primary: #ad1fea;
+  --color-blue: #4661e6;
+  --color-blue-dark: #373f68;
+  --color-blue-navy: #3a4374;
+  --color-grey-light: #f2f4ff;
+  --color-grey-lighter: #f7f8fd;
+  --color-grey-dark: #647196;
+}
